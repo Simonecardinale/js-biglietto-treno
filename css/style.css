@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://cdn.pixabay.com/photo/2015/07/10/13/47/station-839208_960_720.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.layover {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
