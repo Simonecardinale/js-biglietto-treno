@@ -12,4 +12,4 @@ if (eta < 18){
     prezzo-=(prezzo*40/100);
 }
 
-document.getElementById("biglietto").innerHTML= prezzo + " €";
+document.getElementById("biglietto").innerHTML += prezzo + " €";
